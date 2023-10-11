@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696715571 source:c:\users\magic\desktop\diplomaproject\sudoku\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1696716763 source:c:\users\magic\desktop\diplomaproject\sudoku\sudoku\allfunctions.c
+	<windows.h>
+
